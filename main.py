@@ -294,7 +294,7 @@ class CloudflareBypass:
         result = challenge_function()
         return str(result)
     
-    def get_cf_challenge(self,
+    def get_cf_clearance(self,
                          wp: str,
                          s: str,
                          cf_ray: str
@@ -326,7 +326,7 @@ def main():
     key, s = client.get_main_js()
     print(key, s)
     wp = client.calculate_wp(key)
-    cf_clearance = client.get_cf_challenge(wp, s, cf_ray)
+    cf_clearance = client.get_cf_clearance(wp, s, cf_ray)
     print(cf_clearance)
 
 
