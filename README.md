@@ -10,6 +10,6 @@ python main.py
 
 # Contact
 
-- Matrix: [@qoo.nyan:usesarchbtw.lol](https://matrix.to/#/@qoo.nyan:usesarchbtw.lol)
+- Matrix: [@kounomiya-cat:matrix.org](https://matrix.to/#/@kounomiya-cat:matrix.org)
 
 Working on April 21, 2024.
