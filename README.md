@@ -10,6 +10,6 @@ python main.py
 
 # Contact
 
-- Matrix: [@kounomiya-cat:matrix.org](https://matrix.to/#/@kounomiya-cat:matrix.org)
+- Email [kounomiya@tuta.io](mailto:kounomiya@tuta.io)
 
 Working on April 21, 2024.
